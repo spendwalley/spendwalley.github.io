@@ -7,7 +7,7 @@ This Privacy Policy sets out the data protection policy of the SpendWalley App (
 
 ### Information Collection
 
-The App collects personal data such as your transactions and financial information. This information is necessary for the App to provide its services to you. The App does not collect any other personal data.
+The App collects personal data such as your device state information, Unique identifiers and usage data. This information is necessary for the App when we want to gather analytics to monitor and improve the experience of the app. The App does not collect any other personal data.
 
 ### Data Storage
 The App stores your personal data on your device and does not retain any data on our servers. We do not have access to your personal data and do not share it with any third parties.
@@ -21,6 +21,7 @@ The App complies with the General Data Protection Regulation (GDPR) and processe
 As a user of the App, you have the right to access your personal data that we process, request that we delete your personal data, and request that we transfer your personal data to another service. If you would like to exercise any of these rights, please contact us at spendwalley@gmail.com.
 
 ### Data Retention
+
 We will retain your personal data only for as long as necessary to provide the App's services. Once this time period has passed, we will securely delete your personal data.
 
 ### Changes to This Privacy Policy
