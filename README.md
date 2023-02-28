@@ -18,7 +18,7 @@ The App complies with the General Data Protection Regulation (GDPR) and processe
 
 ### User Rights
 
-As a user of the App, you have the right to access your personal data that we process, request that we delete your personal data, and request that we transfer your personal data to another service. If you would like to exercise any of these rights, please contact us at [insert contact information].
+As a user of the App, you have the right to access your personal data that we process, request that we delete your personal data, and request that we transfer your personal data to another service. If you would like to exercise any of these rights, please contact us at spendwalley@gmail.com.
 
 ### Data Retention
 We will retain your personal data only for as long as necessary to provide the App's services. Once this time period has passed, we will securely delete your personal data.
